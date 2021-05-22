@@ -27,8 +27,8 @@
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
-  <a href="https://github.com/othneildrew/Best-README-Template">
-    <img src="lib/assets/logo.png" alt="Logo" width="80" height="80">
+  <a href="https://github.com/swarupbhanjachowdhury/OpenWp">
+    <img src="assets/logo.png" alt="Logo" width="80" height="80">
   </a>
 
   <h3 align="center">OpenWp</h3>
