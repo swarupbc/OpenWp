@@ -92,6 +92,10 @@ flutter.dev
 ## Usage
 
 Simple tool to open WhatsApp chat without saving the number, developed using Google's Flutter Framework. for Android/ IOS/ Desktop/ Web
+![Screenshot_2021-05-23-01-02-54-01](https://user-images.githubusercontent.com/55395995/119239162-0088fa00-bb65-11eb-875d-13ce1bf52a6c.png)
+![Screenshot_2021-05-23-01-03-15-16](https://user-images.githubusercontent.com/55395995/119239167-0383ea80-bb65-11eb-9911-677dfd024445.png)
+![Screenshot_2021-05-23-01-03-06-41](https://user-images.githubusercontent.com/55395995/119239172-054dae00-bb65-11eb-8c47-d4a39181c0ca.png)
+
 
 
 _For more, please refer to the [Documentation]flutter.dev)_
