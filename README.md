@@ -1,11 +1,4 @@
 
-[![Forks][forks-shield]][https://github.com/swarupbhanjachowdhury/OpenWp/network/members]
-[![Stargazers][stars-shield]][https://github.com/swarupbhanjachowdhury/OpenWp/stargazers]
-[![Issues][issues-shield]][https://github.com/swarupbhanjachowdhury/OpenWp/issues]
-[![MIT License][license-shield]][https://github.com/swarupbhanjachowdhury/OpenWp/blob/master/LICENSE]
-[![LinkedIn][linkedin-shield]][https://www.linkedin.com/in/swarup-bhanja-chowdhury-0a7391184/]
-
-
 
 <!-- PROJECT LOGO -->
 <br />
