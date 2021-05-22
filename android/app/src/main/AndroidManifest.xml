@@ -1,7 +1,7 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     package="com.example.openwp">
    <application
-        android:label="openwp"
+        android:label="OpenWp"
         android:icon="@mipmap/ic_launcher">
         <activity
             android:name=".MainActivity"

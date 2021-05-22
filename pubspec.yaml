@@ -1,5 +1,5 @@
 name: openwp
-description: A new Flutter project.
+description: Open Whatsapp Chat Without Saving Number.
 
 publish_to: 'none' # Remove this line if you wish to publish to pub.dev
 
@@ -17,6 +17,7 @@ dependencies:
   url_launcher: ^6.0.4
 
 dev_dependencies:
+  flutter_native_splash: ^1.1.8+4
   flutter_test:
     sdk: flutter
 
@@ -26,8 +27,10 @@ flutter:
   uses-material-design: true
 
 
-  # assets:
-  #   - assets/
+  assets:
+    - assets/logo.png
+    - assets/wp.png
+
 
  
   # fonts:
